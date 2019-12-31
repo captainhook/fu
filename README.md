@@ -3,5 +3,5 @@ FU - Folder Updater | Install folder while preserving target ownership/group/per
 
 ## Use Cases
 
-+ Security patch rollout on a webserver with many virtual hosts
-
++ Security patch rollout/update of extensions/plugins/themes on a webserver with many virtual hosts
++ Mirror a staging dir to a live dir
