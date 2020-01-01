@@ -9,7 +9,7 @@ FU - Folder Updater | Update a folder while preserving target ownership/group/pe
 #### Changelog
 1. Dec 15, 2019
 
-	Initial release
+	+ Initial release
 2. Jan 01, 2020
 
 	+ batch processing (https://github.com/captainhook/fu/issues/2)
