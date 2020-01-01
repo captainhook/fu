@@ -1,5 +1,5 @@
 # fu
-FU - Folder Updater | Install folder while preserving target ownership/group/permissions
+FU - Folder Updater | Update a folder while preserving target ownership/group/permissions
 
 ## Use Cases
 
